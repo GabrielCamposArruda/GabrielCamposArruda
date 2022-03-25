@@ -1,4 +1,4 @@
-## Olá, eu sou o Gabriel Arruda e bem vindos ao meu repositório ☕
+## Olá, eu sou o Gabriel Arruda e bem vindos ao meu Github ☕
 
 <br>
 
