@@ -1,13 +1,21 @@
 ## Olá, eu sou o Gabriel Arruda e bem vindos ao meu repositório ☕
 
+<br>
+
 <!-- Banner -->
 
-<div></div>
+![gifgithub](https://user-images.githubusercontent.com/101906907/160066537-fd3cf0c9-575b-4212-96e5-899866ccd80a.gif)
+
+<br>
 
 ### Redes sociais 💻
 
+<br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gbz.bezaleel/)
+
+<br>
 
 ### Skills 🖊️
 
